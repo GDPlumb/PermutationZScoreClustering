@@ -1,3 +1,6 @@
+using SnFFT
+using JLD
+
 require("Duplicate.jl")
 require("SpectralClustering.jl")
 
